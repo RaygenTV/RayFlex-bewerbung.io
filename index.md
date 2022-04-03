@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rayflex Team bewerbung</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+            font-family: 'Bebas Neue', cursive;
+            background-color: #b8ace7;
+            padding-left: 100px;
+            padding-right: 100px;
+        }
+
+        .headline {
+            color: #964b43;
+            padding-left: 500px;
+        }
+
+
+        .unterschrift {
+            padding-left: 300px;
+        }
+
+
+
+        a {
+            color: rgb(0, 0, 0);
+            text-decoration: solid;
+            padding-left: 2cm;
+            font: bold;
+            display: block;
+
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .nogame-image {
+            width: 1000px;
+            padding-left: 50px;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <h3><a href="https://discord.gg/X6EQR7AHSZ">Discord</a></h3>
+
+    <h3> <a href="https://www.youtube.com/channel/UCzm0xiU3i3WPYKjmwZ8bhEQ">Kanal</a></h3>
+
+    <h1 class="headline">Wilkommen</h1>
+
+    <img class="nogame-image" src="no game.jpg">
+
+
+    <h1 class="unterschrift">Für die Bewerbung brauchst du auf jeden fall:</h1>
+
+
+
+
+
+    <ul class="list">
+
+        <h2>
+            <li>Mindest Joinzeit 1 Woche</li>
+        </h2>
+
+
+        <h2>
+            <li>Geistige Reife</li>
+        </h2>
+
+
+        <h2>
+            <li>Verständnis</li>
+        </h2>
+
+        <h2>
+            <li>Teamgeist</li>
+        </h2>
+
+        <ul class="list">
+
+
+
+
+
+
+</body>
+
+
+
+</html>
